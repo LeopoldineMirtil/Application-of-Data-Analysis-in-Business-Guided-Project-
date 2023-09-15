@@ -1,13 +1,12 @@
 Business Data Analysis Capstone Project
 ================
 Leopoldine Mirtil
-2023-08-28
 
 ### DATA SOURCE
 
-The data used in this capstone task is from the ‘Application of Data
-Analysis in Business with R Programming’ guided project, offered through
-Coursera.com and taught by instructor Nilosree Sengupta
+The data used in this Capstone task is from the ‘Application of Data Analysis 
+in Business with R Programming’ guided project course taught by instructor 
+Nilosree Sengupta through Coursera.com.
 
 ### SCENARIO
 
